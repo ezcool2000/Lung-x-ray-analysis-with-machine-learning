@@ -23,7 +23,7 @@ The model achieved an overall accuracy of **81%** on a completely unseen test se
 ## 💻 Live Inference 
 You don't need to retrain the model. You can download the pre-trained weights and test it instantly with any X-Ray image.
 
-
+download the pre trained brain here: https://drive.google.com/file/d/1AikTDxpkQEdBvMWi7NLuqB0zsHODisyq/view?usp=drive_link
  **Run the inference script:** Upload a random X-ray image and the system will output the probability bar chart in seconds.
 
 *<img width="933" height="390" alt="results" src="https://github.com/user-attachments/assets/f7b7e176-cf3f-4c7f-b052-c83bfbc09303" />
